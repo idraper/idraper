@@ -1,5 +1,3 @@
-![Isaac's github stats](https://github-readme-stats.vercel.app/api?username=idraper&count_private=true&theme=dark)
-
 <!--
 **idraper/idraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
